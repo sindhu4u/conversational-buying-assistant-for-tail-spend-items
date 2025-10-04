@@ -1,0 +1,11 @@
+slack_bolt
+python-dotenv
+urllib3
+pandas>=2.0.0
+torch>=2.0.0
+serpapi>=1.0.0
+groq>=1.0.0
+sentence-transformers>=2.2.0
+PyPDF2>=3.0.0
+firebase-admin>=6.0.0
+hashl>=0.1.0
