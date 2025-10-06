@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 import logging
 import re
 import urllib.parse
-from pipelinefinal import Pipeline
+from pipeline import Pipeline
 import json
 from datetime import datetime
 import requests
